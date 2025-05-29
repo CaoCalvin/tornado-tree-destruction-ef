@@ -1,6 +1,10 @@
 # Data
 data/
-
+dataset/
+dataset.zip
+dataset_processed/
+annotations/
+dataset_test/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
