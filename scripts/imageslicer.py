@@ -60,7 +60,7 @@ def process_images():
                 break
         
         if not mask_img_path: # Fallback to a broader search if specific names not found
-            core_name = mask_basename_parts[0]
+            core_name = mask_basename_parts[0] 
             # More generic search, be cautious if names are very ambiguous
             potential_masks_glob = glob.glob(os.path.join(MASK_IMG_DIR, f"*{core_name}*mask*{mask_basename_parts[1]}")) + \
                                    glob.glob(os.path.join(MASK_IMG_DIR, f"*{core_name}*msk*{mask_basename_parts[1]}"))
