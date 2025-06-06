@@ -1,0 +1,43 @@
+{
+  "os":  "Windows-10-10.0.22621-SP0",
+  "python":  "CPython 3.10.18",
+  "startedAt":  "2025-06-06T17:08:20.202212Z",
+  "program":  "C:\\Users\\dbutt7\\treefall-tornado-rating\\src\\model.py",
+  "codePath":  "src\\model.py",
+  "git":  {
+    "remote":  "git@github.com:CaoCalvin/treefall-tornado-rating.git",
+    "commit":  "c820f9fcfdf2123d2874d65dfdee967e503c267a"
+  },
+  "email":  "caocalvin@outlook.com",
+  "root":  ".",
+  "host":  "WE-D-CEE-0219",
+  "executable":  "C:\\Users\\dbutt7\\AppData\\Local\\miniconda3\\envs\\torch-env\\python.exe",
+  "codePathLocal":  "model.py",
+  "cpu_count":  24,
+  "cpu_count_logical":  32,
+  "gpu":  "NVIDIA GeForce RTX 4080",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "2027270696960",
+      "used":  "1681631834112"
+    }
+  },
+  "memory":  {
+    "total":  "66205036544"
+  },
+  "cpu":  {
+    "count":  24,
+    "countLogical":  32
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4080",
+      "memoryTotal":  "17171480576",
+      "cudaCores":  9728,
+      "architecture":  "Ada",
+      "uuid":  "GPU-eddf26ee-78e6-c40d-4337-1564c88ae828"
+    }
+  ],
+  "cudaVersion":  "12.7"
+}

@@ -1,0 +1,3 @@
+epoch,step,train_dataset_iou,train_per_image_iou,valid_dataset_iou,valid_per_image_iou
+0,941,,,0.4619482755661011,0.5142170190811157
+0,941,0.4376618266105652,0.48212820291519165,,
